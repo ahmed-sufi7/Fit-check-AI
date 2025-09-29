@@ -1,0 +1,6 @@
+{
+  "name": "Fit Check AI",
+  "description": "Upload a photo of yourself and an outfit to see how it looks on you. character consistency, A virtual fitting room.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
